@@ -28,7 +28,7 @@ My goal is to learn Java Script and become experienced and happy Front-End Devel
 
 # Code Example
 
-`const reverseSeq = n => { let a = [] for (i = n; i >= 1; i--){ a.push(i) } return a }`
+` const reverseSeq = n => { let a = [] for (i = n; i >= 1; i--) { a.push(i) } return a }`
 
 ---
 
