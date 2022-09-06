@@ -31,3 +31,17 @@ My goal is to learn Java Script and become experienced and happy Front-End Devel
 `const reverseSeq = n => { let a = [] for (i = n; i >= 1; i--){ a.push(i) } return a }`
 
 ---
+
+# Experience
+
+I have worked as a geophysical engineer for couple years
+
+---
+
+# Education
+
+- University: Russian State Geological Prospecting University
+- FreeCodeCamp
+- Code Basics
+
+---
