@@ -45,3 +45,10 @@ I have worked as a geophysical engineer for couple years
 - Code Basics
 
 ---
+
+# English Skills
+
+B2
+
+I have worked at two international geophysical projects.
+Although i have not practiced my english with speakers for some time, i would describe my skills as good enough to understand and be understood.
